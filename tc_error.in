@@ -1,0 +1,6 @@
+3
+multiple_add_contact 0 2 0 4
+multiple_add_contact 1 0 0 4
+multiple_add_contact 1 2 0 4
+can_reach 1 2 2 4
+test_journey 1 2 2 4

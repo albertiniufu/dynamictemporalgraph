@@ -1,0 +1,16 @@
+4
+a b 0
+a b 1
+a b 2
+a b 3
+b c 5
+b c 6
+b c 7
+b c 8
+c d 10
+c d 11
+c d 12
+c d 13
+a d 5
+can_reach a d 5 7
+test_journey a d 5 7

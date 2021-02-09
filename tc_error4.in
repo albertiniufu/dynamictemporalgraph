@@ -1,0 +1,8 @@
+5
+multiple_add_contact 3 0 263 512
+multiple_add_contact 3 2 0 203
+multiple_add_contact 2 0 0 255
+multiple_add_contact 0 1 250 326
+multiple_add_contact 1 4 89 381
+can_reach 3 4 234 463
+test_journey 3 4 234 463

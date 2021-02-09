@@ -1,0 +1,48 @@
+7
+a b 1
+b c 3
+c d 5
+a e 4
+e d 9
+a f 6
+f g 6
+g d 6
+a b 2
+b c 4
+c d 6
+a e 5
+e d 10
+a f 7
+f g 7
+g d 7
+a f 8
+f g 8
+g d 8
+g d 9
+can_reach a b 0 12
+can_reach a c 0 12
+can_reach a d 0 12
+can_reach a f 0 12
+can_reach a g 0 12
+can_reach b c 0 12
+can_reach b d 0 12
+can_reach e d 0 12
+can_reach f g 0 12
+can_reach f d 0 12
+can_reach g d 0 12
+can_reach a b 4 5
+can_reach a c 5 6
+can_reach a d 20 40
+can_reach a f 1 5
+can_reach a g 1 5
+can_reach b c 0 2
+can_reach b d 0 4
+can_reach e d 5 8
+can_reach f g 1 5
+can_reach f d 1 5
+can_reach g d 1 5
+test_journey a d 0 12
+test_journey a d 4 12
+test_journey a d 6 12
+test_journey a d 7 12
+test_journey a d 8 12

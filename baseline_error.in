@@ -1,0 +1,16 @@
+14
+multiple_add_contact 0 3 0 32
+multiple_add_contact 9 1 0 15
+multiple_add_contact 4 1 0 32
+multiple_add_contact 9 8 0 32
+multiple_add_contact 3 2 0 14
+multiple_add_contact 0 2 0 32
+multiple_add_contact 8 3 0 7
+multiple_add_contact 4 0 0 32
+multiple_add_contact 5 1 0 32
+multiple_add_contact 12 6 0 32
+multiple_add_contact 11 1 0 32
+multiple_add_contact 12 1 0 28
+multiple_add_contact 1 0 0 32
+can_reach 9 8 13 28
+test_journey 9 8 13 28
