@@ -2,7 +2,7 @@
 all:
 	javac Rtuples.java
 
-t:
+tests:
 	java Rtuples  < ../two_jumps.in | diff - ../two_jumps.out
 	java Rtuples  < ../basic.in | diff - ../basic.out
 	java Rtuples  < ../find_better_journey.in | diff - ../find_better_journey.out
