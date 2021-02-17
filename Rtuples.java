@@ -57,12 +57,7 @@ public class Rtuples {
 			} else if(line[0].equals("multiple_add_contact")) {
 				int u = G.getNodeId(line[1]);
 				int v = G.getNodeId(line[2]);
-				if (line[1].equals("12") ) {
-				   System.out.println("12 == "+u);
-				}
-				if (line[1].equals("0") ) {
-					   System.out.println("0 == "+u);
-					}
+				
 				int t1 = new Integer(line[3]);
 				int t2 = new Integer(line[4]);
 				for (int t = t1; t < t2; t++) {
@@ -201,11 +196,7 @@ class TemporalGraph {
 			Tuv.remove(r);
 		}
 
-		if (u == 7 && v ==  2) { 		  
-	             if (tMinus == 13 && tPlus == 15)
-				  System.err.println(Tuv);
-
-		}
+		
 		Tuv.add(newtuple);
 	}
 
