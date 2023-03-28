@@ -3,7 +3,7 @@ A dynamic data structure for reachability queries for temporal graphs. A quick i
 A Dynamic Data Structure for Temporal Reachability with Unsorted Contact Insertions'' (https://arxiv.org/abs/2102.04187)
 
 # Funding
-This project was funded by CNPq (406418/2021-7) and FAPEMIG.
+This project is being funded by CNPq (406418/2021-7) and FAPEMIG.
 
 ## Build requirements
 java 1.8 or newer
